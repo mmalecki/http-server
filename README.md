@@ -1,4 +1,4 @@
-# http-server: a command-line http server
+# http-server: a command-line http server [![Build Status](https://secure.travis-ci.org/mmalecki/http-server.png)](http://travis-ci.org/mmalecki/http-server)
 
 `http-server` is a simple, zero-configuration command-line http server.  It is powerful enough for production usage, but it's simple and hackable enough to be used for testing, local development, and learning.
 
